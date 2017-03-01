@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AllInOneApp</string>
+    <string name="user_name">User Name</string>
+    <string name="hint_name">Enter Name Here</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="module_array">
+        <item> Mmodule 1</item>
+        <item> Mmodule 2</item>
+        <item> Mmodule 3</item>
+        <item> Mmodule 4</item>
+        <item> Mmodule 5</item>
+    </string-array>
+</resources>
